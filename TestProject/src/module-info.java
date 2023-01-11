@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author RakovD
+ *
+ */
+module TestProject {
+}
